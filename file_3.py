@@ -1,0 +1,1 @@
+print("This is file 3") # This line prints a message indicating that this is file 3.
